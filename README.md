@@ -1,6 +1,6 @@
-📧 KryptoReach — AI Cold Email Generator for Job Seekers
+📧 HireCold — AI Cold Email Generator for Job Seekers
 
-KryptoReach is an AI-powered cold email generator built for job seekers. It helps candidates generate highly personalized job application emails by analyzing real job postings and matching them with the candidate’s portfolio and skills.
+HireCold is an AI-powered cold email generator built for job seekers. It helps candidates generate highly personalized job application emails by analyzing real job postings and matching them with the candidate’s portfolio and skills.
 
 Instead of sending generic applications, job seekers can use KryptoReach to:
 
@@ -22,7 +22,7 @@ A job seeker finds the job posting on Nike’s careers page.
 
 Instead of applying with a generic resume alone, the candidate wants to stand out by sending a personalized cold email to the recruiter or hiring manager.
 
-👉 KryptoReach:
+👉 HireCold:
 
 Analyzes Nike’s job posting
 
