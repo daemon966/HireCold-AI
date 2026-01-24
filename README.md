@@ -88,20 +88,6 @@ pip install -r requirements.txt
 3️⃣ Run the Application
 streamlit run app/main.py
 
-📂 Project Structure
-.
-├── app/
-│   ├── main.py          # Streamlit app entry point
-│   ├── chains.py        # Job extraction & email generation logic
-│   ├── portfolio.py    # Portfolio vector search
-│   ├── utils.py        # Text cleaning utilities
-│   └── .env
-├── imgs/
-│   ├── img.png
-│   └── architecture.png
-├── requirements.txt
-└── README.md
-
 🧪 How It Works
 
 Job seeker enters a job posting URL
@@ -129,37 +115,3 @@ Highlights relevant skills and projects
 Improves recruiter response rate
 
 Acts as a smart job application assistant
-
-🎯 Project Highlights (Interview-Ready)
-
-End-to-end LLM application development
-
-Real-world job-hunting use case
-
-Combines web scraping + NLP + vector search
-
-Clean business logic: 1 job → 1 email
-
-Strong portfolio project for:
-
-Data Engineers
-
-ML Engineers
-
-AI Engineers
-
-GenAI Developers
-
-🚀 Future Enhancements
-
-Recruiter tone vs Hiring Manager tone
-
-Resume upload and alignment
-
-Job title preview before email generation
-
-Copy-to-clipboard support
-
-Multi-language cold emails
-
-PDF job description support
