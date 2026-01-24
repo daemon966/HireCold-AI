@@ -34,11 +34,6 @@ Generates a professional cold email tailored specifically to the role
 
 This significantly improves the chances of getting a response.
 
-🖼️ Application Preview
-![img.png](imgs/img.png)
-🏗️ Architecture Diagram
-![img.png](imgs/architecture.png)
-🧠 Key Features
 
 🔗 Job URL–based extraction (careers pages or job listings)
 
